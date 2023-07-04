@@ -13,3 +13,5 @@ To track the transfers, the script utilizes the event listener provided by Ether
 The script employs 6 decimal places for USDC amounts (in wei), as specified by the token's standard. It also demonstrates an alternative approach to query filters using the event listener, instead of using Ethers.js query filters.
 
 This repository serves as a starting point for developers interested in building their own whale tracking functionality for USDC tokens on Ethereum. It provides a clear code structure and showcases the integration of Ethers.js with event tracking and sound notifications for enhanced user experience.
+
+Inspired by https://github.com/dappuniversity/whale_tracker
